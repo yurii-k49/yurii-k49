@@ -1,20 +1,12 @@
 
 
 <div align="center" dir="auto">
-  <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💦 AI | Solana / Ethereum | Bot (Trading, Chat) / Expert 💦</h1><a id="user-content--scraping--extensions--trading-bot--c--desktop--point-cloud--flutter-" class="anchor" aria-label="Permalink: 💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦" href="#-scraping--extensions--trading-bot--c--desktop--point-cloud--flutter-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💦 𝓐𝓘 | 𝓢𝓸𝓵𝓪𝓷𝓪 / 𝓔𝓽𝓱𝓮𝓻𝓮𝓾𝓶 | 𝓑𝓸𝓽 (𝓣𝓻𝓪𝓭𝓲𝓷𝓰, 𝓒𝓱𝓪𝓽 ...) / 𝓔𝔁𝓹𝓮𝓻𝓽 💦</h1><a id="user-content--scraping--extensions--trading-bot--c--desktop--point-cloud--flutter-" class="anchor" aria-label="Permalink: 💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦" href="#-scraping--extensions--trading-bot--c--desktop--point-cloud--flutter-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 </div>
 
 
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
-      <br>REST API
-    </td>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
       <br>Javascript
@@ -42,6 +34,14 @@
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67"><img src="https://camo.githubusercontent.com/f74cb7194431fff135977055f97a265b33865fb4e7b52b500325b2777ce84e72/68747470733a2f2f73322e636f696e6d61726b65746361702e636f6d2f7374617469632f696d672f636f696e732f36347836342f353432362e706e67" width="48" height="48" alt="Solana" data-canonical-src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" style="max-width: 100%; height: auto; max-height: 48px;"></a>
       <br>Solana
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true"><img src="https://github.com/kroim/profile/raw/master/icons/icon_nft.png?raw=true" height="45" style="max-width: 100%; height: auto; max-height: 45px;"></a>
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true"><img src="https://github.com/kroim/profile/raw/master/icons/icon_defi.png?raw=true" height="45" style="max-width: 100%; height: auto; max-height: 45px;"></a>
+      <br>DeFi
     </td>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c8001fd6c104a232ebb3cddc6f58dad15ac4e58d9063477da6b0420c44a1b66/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c6172"><img src="https://camo.githubusercontent.com/2c8001fd6c104a232ebb3cddc6f58dad15ac4e58d9063477da6b0420c44a1b66/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c6172" width="45" height="45" alt="Angular" data-canonical-src="https://skillicons.dev/icons?i=angular" style="max-width: 100%; height: auto; max-height: 45px;"></a>
@@ -116,12 +116,12 @@
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer" href="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true"><img src="https://github.com/kroim/profile/raw/master/icons/icon_nft.png?raw=true" height="45" style="max-width: 100%; height: auto; max-height: 45px;"></a>
-      <br>NFT
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
+      <br>Python
     </td>
     <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer" href="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true"><img src="https://github.com/kroim/profile/raw/master/icons/icon_defi.png?raw=true" height="45" style="max-width: 100%; height: auto; max-height: 45px;"></a>
-      <br>DeFi
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%; height: auto; max-height: 55px;"></a>
+      <br>REST API
     </td>
     <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565"><img src="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="45" height="45" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%; height: auto; max-height: 45px;"></a>
