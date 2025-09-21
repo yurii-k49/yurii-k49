@@ -401,20 +401,6 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 <h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "150px" src="https://www.kupicrypto.com/wp-content/uploads/2022/01/Wild-West-Verse.jpg" >
-  
-You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Token or sell it on the market with the stakes you earn.
-  
-- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 1500-2000 /1$WWV, 1000-1499 /1.5$WWV, 600-999 /2$WWV, 300-599 /2.5$WWV, 200-299 /3$WWV, 51-199 /4$WWV, 1-50 /5$WWV
-  - If your NFT is rarer you will get more staking reward.
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/0xapp123/WorldWiseVerse-Staking" target="_blank">WWV-NFT-Staking</a>
-
-<h3><u><strong><i>Kingdom of Dwarves</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
