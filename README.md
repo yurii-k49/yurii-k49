@@ -181,19 +181,6 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 
-This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
-<img align="right" height="200px" src="https://github.com/0xapp123/-MY-Projects-README-/assets/36965207/73b80e83-0e94-48a9-9294-7718f97ec1d9">
-
-BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
-- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/0xapp123/BRC20-withdraw-BE">BRC20-Backend</a>
-  - frontend repo: <a href="https://github.com/0xapp123/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
-
-
-<h3><u><strong><i>Wheel Game</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
 <img align="right" height = "250px" src="https://github.com/user-attachments/assets/8b8b05bd-0061-461d-8361-31c3a5d5e238" >
 
 This is the wheel game by using $TOKE tokens on Solana. The spin result will be randomized fairly - Lost, 1.2X, 1.5X, 2X, Jackpot. Users can get reward as $TOKE tokens.
@@ -297,28 +284,6 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207525801-dc957674-c432-4817-a30d-7476364ce0b4.png" >
-
-The Solarmy is an interdimensional freedom fighting army of the future where all members are connected to each other through a high tech implant
-
-- Original Link: <a href="https://game.solarmy.io/" target="_blank">Solarmy Game</a>
-  - You can play game with Solarmy 3D NFTs with this site
-  - You can stake solarmy 2D NFTs
-
-
-- Github repo: 
-  - Solarmy Game FE: <a href="https://github.com/0xapp123/Solarmy-FE" target="_blank">FE code</a>
-  - Solarmy Game BE: <a href="https://github.com/0xapp123/Solarmy-Backend-Api" target="_blank">BE code</a>
-  - Solarmy Game Program: <a href="https://github.com/0xapp123/Solarmy-Staking-Program" target="_blank">Program code</a>
-  
-- Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
-  
-<h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-
-
-
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
 
 This is the Coinflip game for Solana network
@@ -347,27 +312,6 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
 
 <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width = "350px" src="https://user-images.githubusercontent.com/29230603/183615605-20e9fed4-b8ce-4e3f-8020-843e91b5f99c.png" >
-
-30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
-to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
-
-- Original Link: <a href="https://superkongz-staking.netlify.app/" target="_blank">Seattle_SuperKongs_Staking</a>
-
-- Official Link: <a href="https://www.superkongs.io/" target="_blank">Seattle_SuperKongs</a>
-
-- Github repo: 
-  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_FE" target="_blank">FrontEnd Code</a>
-  - <a href="https://github.com/Seattle-SuperKongs/NFT_Staking_contract" target="_blank">NFT Staking Smart Contract Code</a>
-  - <a href="https://github.com/Seattle-SuperKongs/DUNK_token_contract" target="_blank">DUNK Token Smart Contract Code</a>
-- Social Link:
-  - <a href="https://twitter.com/SeaSuperkongs" target="_blank"> SuperKongs-Twitter </a>
-  - <a href="https://www.instagram.com/seattlesuperkongs/?hl=en" target="_blank"> SuperKongs-Instagram </a>
-
-
-<h3><u><strong><i>FoxFinance</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
 
 <img align="right" height = "180px" src="https://miro.medium.com/max/1838/1*ILG-NpffKayiqDzRLTcwiQ.jpeg" >
@@ -469,52 +413,6 @@ You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Toke
 - Github repo: <a href="https://github.com/0xapp123/WorldWiseVerse-Staking" target="_blank">WWV-NFT-Staking</a>
 
 <h3><u><strong><i>Kingdom of Dwarves</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "220x" src="https://pbs.twimg.com/media/FNma6xqWYAI6Xzt?format=jpg&name=large" >
-
-Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
-  
-- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="http://16.170.178.222:3001" target="_blank">KCRWN Staking</a>
-  - users can reward according to their NFT rare
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/0xapp123/KoD-NFT-Staking" target="_blank">Dwarves-staking</a>
-- Kod Story: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
- 
-<!-- <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "220px" src="https://assets.coingecko.com/coins/images/23534/large/FLWR-Token-Front-ALPHA.png?1644387944" >
-
-Staking an SPL token "FLWR"
-
-- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
-- Live URL: <a href="https://flwrstaking.solflowers.io/" target="_blank">SOL Flowers Staking</a>
-  - number of flwr (spl-token) - 50/75/100%
-  - reward period/lock time  - 4/6/12 month
-  - interest  - 3%/6%/12%
-  - penalties for early withdrawl - 6/12/24%
-  - transaction fee < .1 sol
-- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/0xapp123/FLOWER-spl-staking" target="_blank">FLWR-staking</a>
-     -->
-
-<h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "220px" src="./assets/luvami-gambling.png" >
-
-This is the Dice game. The random number will be created in blockchain and compare the system's Dice and user's Dice.
-
-- Link: <a href="https://dice-game-frontend.vercel.app/" target="_blank">Luvami Gambling</a>
-  - You can deposit 0.05, 0.1, 0.25, 0.5, 0.75, 1, 2.5 SOL
-  - If you win, you receive the 2 times, you earn
-  - If you lost, you can't receive at all.
-- Github repo : <a href="https://github.com/0xapp123/Dice-Rust" target="_blank">DICE</a>  
-
-<h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
