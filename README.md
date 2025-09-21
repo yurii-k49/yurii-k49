@@ -161,6 +161,19 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 - Github repos: 
   - Smart Contract repo: <a href="https://github.com/Kommunitas-net/fair-launch">Fairlaunch - Smart Contract, Frontend, Backend</a>
 
+  <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" height = "220px" src="https://pbs.twimg.com/media/FQ65kTNakAE2qMg?format=jpg&name=large" >
+
+This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$BGA token.
+
+- Link: <a href="https://aurora-staking.vercel.app/" target="_blank">TAC Staking</a>
+  - You can stake your TAC NFT.
+  - You will receive reward as 🍌$BGA calculated by 25 days.
+- Original Link: <a href="https://www.theapedao.finance/" target="_blank">Buy $BGA|APe DAO</a>
+- Github repo : <a href="https://github.com/0xapp123/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
+
 <h3><u><strong><i>Pump.fun - Ape.lol</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 <hr />
 
@@ -310,19 +323,6 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 
 - Github repo: <a href="https://github.com/0xapp123/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
-
-<h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" height = "220px" src="https://pbs.twimg.com/media/FQ65kTNakAE2qMg?format=jpg&name=large" >
-
-This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$BGA token.
-
-- Link: <a href="https://aurora-staking.vercel.app/" target="_blank">TAC Staking</a>
-  - You can stake your TAC NFT.
-  - You will receive reward as 🍌$BGA calculated by 25 days.
-- Original Link: <a href="https://www.theapedao.finance/" target="_blank">Buy $BGA|APe DAO</a>
-- Github repo : <a href="https://github.com/0xapp123/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
 
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
