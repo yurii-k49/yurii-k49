@@ -314,33 +314,6 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
-<img align="right" height = "180px" src="https://miro.medium.com/max/1838/1*ILG-NpffKayiqDzRLTcwiQ.jpeg" >
-
-We’ll also be hosting a charity auction with the winning artwork, allowing the FOX community to own a piece of history in the form of an NFT, with proceeds going to a wildlife-oriented charity we plan to reveal it soon.
-
-- Original Link: <a href="https://foxfinance.io/Marketplace" target="_blank">Fox Finance</a>
-
-- Github repo: <a href="https://github.com/0xapp123/nuxt-fox-nft-marketplace" target="_blank">Fox Finance Marketplace</a>
-
-<h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(Avalanche/Solana)</h3>
-<hr />
-
-<img align="right" height = "150px" src="https://miro.medium.com/max/1000/1*6tTjzXX0Z2oDKoASI2KYTQ.png" >
-
-This is one of the big project, I have built NFT lending/borrowing system on Avalanche/Solana. You can lend and borrow NFT from this site and the price comes from the NFT oracle.
-
-So you deposit this collateral, we see it belongs to collection X so the floor price is Y. We send 70% of Y (assuming the loan to value is 70%) and the loan begins. 
-
-Now two things can happen (already coded in compound). Interest is accumulating, either you pay back the loan + interest and it sends your collateral back, or the loan + interest is too high and it sends it to a liquidation smart contract. 
-
-- Original Link: <a href="https://honey.finance" target="_blank"> Honey Finance </a>
-
-- Github repo: <a href="https://github.com/honey-labs/evm-lend-nft" target="_blank">Honey Finance NFT Lend</a>
-
-
-<h3><u><strong><i>TAC Staking</i></strong></u> &nbsp;(Aurora)</h3>
-<hr />
-
 <img align="right" height = "220px" src="https://pbs.twimg.com/media/FQ65kTNakAE2qMg?format=jpg&name=large" >
 
 This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$BGA token.
@@ -352,19 +325,6 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - Github repo : <a href="https://github.com/0xapp123/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
 
 <h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" height = "150px" src="https://miro.medium.com/fit/c/224/224/1*BO6BjA_v82dT7w-ny7V7GQ.jpeg" >
-
-This is the easy NFT minting site which has one landig page.
-
-In this project, I built the NFT minting contract by using Solidity. 
-In this smart contract, I built WL Member Function, OG Member Function, and Reveal Time Function. Before reveal time ends, you can’t see your NFTs. It uses the different metadata URIs.
-
-- Original Link: <a href="https://www.laidbackllamas.com" target="_blank">Laid Back Llamas</a>
-- <h5>NDA</h5>
-
-<h3><u><strong><i>Astronaut NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍🚀 NFT collections
