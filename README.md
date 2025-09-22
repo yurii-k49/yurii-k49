@@ -146,7 +146,7 @@
   </tr>
 </tbody></table></markdown-accessiblity-table>
 
-You can find my past works here. Some of projects(repos) are in private status.
+<h1>💦𝙔𝙤𝙪 𝙘𝙖𝙣 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙥𝙖𝙨𝙩 𝙬𝙤𝙧𝙠𝙨 𝙝𝙚𝙧𝙚. 𝙎𝙤𝙢𝙚 𝙤𝙛 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨(𝙧𝙚𝙥𝙤𝙨) 𝙖𝙧𝙚 𝙞𝙣 𝙥𝙧𝙞𝙫𝙖𝙩𝙚 𝙨𝙩𝙖𝙩𝙪𝙨💦</h1>
 
 <hr />
 <h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
