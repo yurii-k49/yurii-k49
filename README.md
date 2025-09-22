@@ -147,9 +147,8 @@
 </tbody></table></markdown-accessiblity-table>
 
 <hr />
-<h2>💦𝙔𝙤𝙪 𝙘𝙖𝙣 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙥𝙖𝙨𝙩 𝙬𝙤𝙧𝙠𝙨 𝙝𝙚𝙧𝙚. 𝙎𝙤𝙢𝙚 𝙤𝙛 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨(𝙧𝙚𝙥𝙤𝙨) 𝙖𝙧𝙚 𝙞𝙣 𝙥𝙧𝙞𝙫𝙖𝙩𝙚 𝙨𝙩𝙖𝙩𝙪𝙨💦</h2>
-
-<hr />
+<h2>💦💦𝘠𝘰𝘶 𝘤𝘢𝘯 𝘧𝘪𝘯𝘥 𝘮𝘺 𝘱𝘢𝘴𝘵 𝘸𝘰𝘳𝘬𝘴 𝘩𝘦𝘳𝘦. 𝘚𝘰𝘮𝘦 𝘰𝘧 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴(𝘳𝘦𝘱𝘰𝘴) 𝘢𝘳𝘦 𝘪𝘯 𝘱𝘳𝘪𝘷𝘢𝘵𝘦 𝘴𝘵𝘢𝘵𝘶𝘴</h2>
+<br>
 <h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 
 <img align="right" height="200px" src="https://github.com/user-attachments/assets/da7e3d56-934f-44a5-85e1-f98f7b1b490e">
