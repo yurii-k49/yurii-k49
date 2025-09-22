@@ -147,7 +147,7 @@
 </tbody></table></markdown-accessiblity-table>
 
 <hr />
-<h2>💦💦𝘠𝘰𝘶 𝘤𝘢𝘯 𝘧𝘪𝘯𝘥 𝘮𝘺 𝘱𝘢𝘴𝘵 𝘸𝘰𝘳𝘬𝘴 𝘩𝘦𝘳𝘦. 𝘚𝘰𝘮𝘦 𝘰𝘧 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴(𝘳𝘦𝘱𝘰𝘴) 𝘢𝘳𝘦 𝘪𝘯 𝘱𝘳𝘪𝘷𝘢𝘵𝘦 𝘴𝘵𝘢𝘵𝘶𝘴</h2>
+<h2>💦𝘠𝘰𝘶 𝘤𝘢𝘯 𝘧𝘪𝘯𝘥 𝘮𝘺 𝘱𝘢𝘴𝘵 𝘸𝘰𝘳𝘬𝘴 𝘩𝘦𝘳𝘦. 𝘚𝘰𝘮𝘦 𝘰𝘧 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴(𝘳𝘦𝘱𝘰𝘴) 𝘢𝘳𝘦 𝘪𝘯 𝘱𝘳𝘪𝘷𝘢𝘵𝘦 𝘴𝘵𝘢𝘵𝘶𝘴</h2>
 <br>
 <h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 
@@ -159,7 +159,7 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 </br>
 
 - Live: <a href="https://kommunitas.net/">Kommunitas Launchpad</a>
-- Github repos: 
+- Github repos(𝘱𝘳𝘪𝘷𝘢𝘵𝘦): 
   - Smart Contract repo: <a href="https://github.com/yurii-k49/fair-launch">Fairlaunch - Smart Contract, Frontend, Backend</a>
  
 <hr />
