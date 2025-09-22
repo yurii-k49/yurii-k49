@@ -246,24 +246,6 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Github repos: 
   - smart contract repo: <a href="https://github.com/yurii-k49/degenTaxi-Program">taxi-crash-solana-contract</a>
 
-
-
-<hr />
-<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
-
-<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
-
-This is the Coinflip game for Solana network
-
-- Original Link: <a href="https://coinflip.deezkits.com/" target="_blank">Coinflip Game</a>
-
-- Github repo: 
-  - Coinflip Game FE: <a href="https://github.com/yurii-k49/Coinflip-Game/tree/main/coinflip-frontend" target="_blank">FE code</a>
-  - Coinflip Game BE: <a href="https://github.com/yurii-k49/Coinflip-Game/tree/main/backend" target="_blank">BE code</a>
-  - Coinflip Game Program: <a href="https://github.com/yurii-k49/Coinflip-Game/tree/main/coinflip-smart-contract" target="_blank">Program code</a>
-  
-- Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
-
 <hr />
 <h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 
