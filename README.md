@@ -1,5 +1,6 @@
 
 
+
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💦 𝓐𝓘 | 𝓢𝓸𝓵𝓪𝓷𝓪 / 𝓔𝓽𝓱𝓮𝓻𝓮𝓾𝓶 | 𝓑𝓸𝓽 (𝓣𝓻𝓪𝓭𝓲𝓷𝓰, 𝓒𝓱𝓪𝓽 ...) 💦</h1><a id="user-content--scraping--extensions--trading-bot--c--desktop--point-cloud--flutter-" class="anchor" aria-label="Permalink: 💦 Scraping | Extensions | Trading bot | C++ | Desktop | Point Cloud | Flutter 💦" href="#-scraping--extensions--trading-bot--c--desktop--point-cloud--flutter-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 </div>
@@ -147,8 +148,8 @@
 
 You can find my past works here. Some of projects(repos) are in private status.
 
-<h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 <hr />
+<h3><u><strong><i>Pump.fun - Kommunitas Net</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 
 <img align="right" height="200px" src="https://github.com/user-attachments/assets/da7e3d56-934f-44a5-85e1-f98f7b1b490e">
 This is pump.fun project on Solana/Ethereum network. Launch a coin that is instantly tradable without having to seed liquidity. </br>
@@ -161,8 +162,8 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 - Github repos: 
   - Smart Contract repo: <a href="https://github.com/Kommunitas-net/fair-launch">Fairlaunch - Smart Contract, Frontend, Backend</a>
 
-  <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
+  <h3><u><strong><i>Seattle-SuperKongs-Staking</i></strong></u> &nbsp;(Ethereum)</h3>
 
 <img align="right" height = "220px" src="https://pbs.twimg.com/media/FQ65kTNakAE2qMg?format=jpg&name=large" >
 
@@ -174,8 +175,8 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - Original Link: <a href="https://www.theapedao.finance/" target="_blank">Buy $BGA|APe DAO</a>
 - Github repo : <a href="https://github.com/0xapp123/NFT-staking-aurora" target="_blank">TAC-NFT-Staking</a>  
 
-<h3><u><strong><i>Pump.fun - Ape.lol</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 <hr />
+<h3><u><strong><i>Pump.fun - Ape.lol</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 
 <img align="right" height="200px" src="https://github.com/user-attachments/assets/cc0d399e-026c-4647-a16d-235c8acc81e6">
 This is pump.fun project on Solana/Ethereum network. Launch a coin that is instantly tradable without having to seed liquidity. </br>
@@ -191,8 +192,8 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
   - Smart Contract repo: <a href="https://github.com/0xapp123/Pump.fun-Smart-Contract">Pump.fun-Smart Contract</a>
 
 
-<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
+<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
 
 <img align="right" height = "250px" src="https://github.com/user-attachments/assets/8b8b05bd-0061-461d-8361-31c3a5d5e238" >
 
@@ -207,8 +208,8 @@ This is the wheel game by using $TOKE tokens on Solana. The spin result will be 
   - Wheel Game FE: <a href="https://github.com/0xapp123/Wheel-Game-FE" target="_blank">BE code</a>
 
  
-<h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
+<h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
 
 <img align="right" height = "250px" src="https://github.com/dev-tom-0108/-MY-Projects-README-/assets/29230603/2653726f-8b2f-4f61-93eb-39a5cdb52db8" >
 
@@ -226,8 +227,8 @@ To be precise, I built BE on my side and worked with FE representatives to fully
   - Inkubate Marketplace BE: <a href="https://github.com/0xapp123/Marketplace_Backend" target="_blank">BE code</a>
  
  
-<h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234073744-baec2f16-7e2a-48dd-8874-4d4c62cddd88.png" >
 
@@ -245,8 +246,8 @@ The players can enter in the game with their own bet amount and after the game f
   
 - Social Link: <a href="https://twitter.com/Bet3NFT" target="_blank">Twitter Link</a> 
 
-<h3><u><strong><i>Yieldz-Defi</i></strong></u> &nbsp;(CoreChain)</h3>
 <hr />
+<h3><u><strong><i>Yieldz-Defi</i></strong></u> &nbsp;(CoreChain)</h3>
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/234078073-4c622db2-9c48-409c-8d69-31e86fa9971f.png" >
 
@@ -264,8 +265,8 @@ Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to p
 
 
 
-<h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
 <hr />
+<h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
 
 This is web3 Play-To-Earn Game (slot) based on Cardano blockchain network.
 
@@ -279,8 +280,8 @@ Attended this project as a fullstack blockchain developer.
 
 
 
-<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" height="250px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
 
@@ -294,8 +295,8 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 
 
-<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>Solarmy Game</i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
 
@@ -310,8 +311,8 @@ This is the Coinflip game for Solana network
   
 - Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
 
-<h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
+<h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 
 <img align="right" height = "200px" src="https://user-images.githubusercontent.com/29230603/183614336-5d442136-03c4-4883-afbd-01f89f9ffa6c.png" >
 
@@ -324,8 +325,8 @@ We are a safe, boring NFT vault. That is very $Dusty. You can pay us to store yo
 - Github repo: <a href="https://github.com/0xapp123/dusty-valuts-v2" target="_blank">Dusty-Vaults_Staking</a>
 - Social Link: <a href="https://twitter.com/DustyVaultsNFT" target="_blank">Dusty Vaults-twitter</a>
 
-<h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
+<h3><u><strong><i>LaidBackLlamas</i></strong></u> &nbsp;(Ethereum)</h3>
 
 Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍🚀 NFT collections
 
@@ -339,8 +340,8 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
 - Github repo: <a href="https://github.com/0xapp123/Astronaut-NFT-Staking">Astronaut-NFT-Staking-death</a>
 
-<h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/183006431-97bdc41e-8b25-4f13-b260-098d948d2853.png">
 
@@ -358,8 +359,8 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - Github repo: <a href="https://github.com/0xapp123/Burning_Masked_Ape">Burning_Masked_Ape</a>
 
 
-<h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
 
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
 
@@ -377,8 +378,8 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
 - Github repo: <a href="https://github.com/0xapp123/ApeX-Raffle-program">Apex-Raffle</a>
 
-<h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166092522-f6b25eab-aefc-4278-9c2e-abd8f65712c0.png">
 
@@ -399,8 +400,8 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Github repo: <a href="https://github.com/0xapp123/raffle-frank-rust" target="_blank">EU-raffle</a>
 
 
-<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
 
@@ -418,8 +419,8 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Github repo: <a href="https://github.com/0xapp123/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
 
 
-<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
 
