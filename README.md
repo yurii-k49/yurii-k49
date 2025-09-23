@@ -175,30 +175,26 @@ To be precise, I built BE on my side and worked with FE representatives to fully
 - Github repo: 
   - Inkubate Marketplace BE: <a href="https://github.com/yurii-k49/Marketplace_Backend" target="_blank">BE code</a>
 
-<hr />
-<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
+ <hr />
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 
-This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
 
-- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
-- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+
+- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
+- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
   - Payment method
-    - SOL
-    - Various SPL tokens
+    - $SOL, $BOOGA, $ZION
   - Reward Type
-    - NFT
-- Official Links:
-  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
-  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
-  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
-  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/yurii-k49/auction-doge-rust">auction-doge</a>
-  - Project Structure:
-    - Auction contract
-    - Auction api
-    - Front-end
+    - Receive NFT, WL spots(max: 50)
+- Original Links:
+  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
+  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+- Github repo: <a href="https://github.com/yurii-k49/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
+
+
 <hr />
 <h3><u><strong><i>Jackpot Game</i></strong></u> &nbsp;(Solana)</h3>
 
@@ -334,23 +330,30 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Github repo: <a href="https://github.com/yurii-k49/raffle-frank-rust" target="_blank">EU-raffle</a>
 
 
- <hr />
-<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
 
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
 
-- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
-- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
+- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
+- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
   - Payment method
-    - $SOL, $BOOGA, $ZION
+    - SOL
+    - Various SPL tokens
   - Reward Type
-    - Receive NFT, WL spots(max: 50)
-- Original Links:
-  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
-  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/yurii-k49/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
+    - NFT
+- Official Links:
+  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
+  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
+  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
+  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
+- Github repo: <a href="https://github.com/yurii-k49/auction-doge-rust">auction-doge</a>
+  - Project Structure:
+    - Auction contract
+    - Auction api
+    - Front-end
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
