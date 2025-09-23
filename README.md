@@ -174,25 +174,6 @@ To be precise, I built BE on my side and worked with FE representatives to fully
 
 - Github repo: 
   - Inkubate Marketplace BE: <a href="https://github.com/yurii-k49/Marketplace_Backend" target="_blank">BE code</a>
- 
- <hr />
-<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
-
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
-
-- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
-- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
-  - Payment method
-    - $SOL, $BOOGA, $ZION
-  - Reward Type
-    - Receive NFT, WL spots(max: 50)
-- Original Links:
-  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
-  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/yurii-k49/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
-
 
 <hr />
 <h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
@@ -353,7 +334,23 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Github repo: <a href="https://github.com/yurii-k49/raffle-frank-rust" target="_blank">EU-raffle</a>
 
 
+ <hr />
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+
+- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
+- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
+  - Payment method
+    - $SOL, $BOOGA, $ZION
+  - Reward Type
+    - Receive NFT, WL spots(max: 50)
+- Original Links:
+  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
+  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+- Github repo: <a href="https://github.com/yurii-k49/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
